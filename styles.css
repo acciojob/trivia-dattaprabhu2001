@@ -1,7 +1,8 @@
 
 /* Your CSS Code here. */
+
 .quote{
-    width: 600px;
+    max-width: 600px;
     background-color:#f8fffe ;
     /* height: 30px; */
     /* padding-top: 10px; */
